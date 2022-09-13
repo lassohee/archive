@@ -370,7 +370,7 @@ a {
 		grid-template-areas:
 		"left"
 		"right";
-		grid-gap: 20px;
+		grid-gap: 10px;
 		font-size: 14px;
 	}
 
