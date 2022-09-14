@@ -4,9 +4,20 @@
 }
 
 @font-face {
-	font-family: appleSD;
-	src: url(AppleSDGothicNeoL.ttf);
+	font-family: neue haas;
+	src: url(fonts/NeueHaasDisplay-Roman.otf);
 }
+
+@font-face {
+	font-family: neue haas;
+	src: url(../NeueHaasDisplay-Roman.ttf);
+}
+
+@font-face {
+	font-family: neue haas;
+	src: url(../NeueHaasDisplay-Roman.otf);
+}
+
 
 * {
 	margin: 0;
