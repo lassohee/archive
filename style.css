@@ -1,3 +1,23 @@
+@font-face {
+	font-family: neue haas;
+	src: url(fonts/NeueHaasDisplay-Roman.ttf);
+}
+
+@font-face {
+	font-family: neue haas;
+	src: url(fonts/NeueHaasDisplay-Roman.otf);
+}
+
+@font-face {
+	font-family: neue haas;
+	src: url(../NeueHaasDisplay-Roman.ttf);
+}
+
+@font-face {
+	font-family: neue haas;
+	src: url(../NeueHaasDisplay-Roman.otf);
+}
+
 
 * {
 	margin: 0;
@@ -12,8 +32,7 @@
 	grid-template-areas: 
 	"header"
 	"main";
-	font-family: Neue Hasas;
-	
+	font-family: 'Noto Sans KR', sans-serif;
 }
 
 a {
